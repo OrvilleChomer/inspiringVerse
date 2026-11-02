@@ -1,3 +1,3 @@
-# inspiringVerse
+# inspiring Verse
 
 Ok, I can edit this file ...
